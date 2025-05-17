@@ -71,6 +71,54 @@
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/ca2.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
+    },
+    {
+      "name": "MADRID 🇪🇸",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/es1.ovpn",
+      "username": "vpnbook",
+      "password": "huba7re"
+    },
+    {
+      "name": "BARCELONA 🇪🇸",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/es2.ovpn",
+      "username": "vpnbook",
+      "password": "huba7re"
+    },
+    {
+      "name": "MILAN 🇮🇹",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/it1.ovpn",
+      "username": "vpnbook",
+      "password": "huba7re"
+    },
+    {
+      "name": "ROME 🇮🇹",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/it2.ovpn",
+      "username": "vpnbook",
+      "password": "huba7re"
+    },
+    {
+      "name": "AMSTERDAM 🇳🇱",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/nl1.ovpn",
+      "username": "vpnbook",
+      "password": "huba7re"
+    },
+    {
+      "name": "ZURICH 🇨🇭",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/ch1.ovpn",
+      "username": "vpnbook",
+      "password": "huba7re"
+    },
+    {
+      "name": "STOCKHOLM 🇸🇪",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/se1.ovpn",
+      "username": "vpnbook",
+      "password": "huba7re"
+    },
+    {
+      "name": "OSLO 🇳🇴",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/no1.ovpn",
+      "username": "vpnbook",
+      "password": "huba7re"
     }
   ]
 }
