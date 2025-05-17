@@ -12,109 +12,55 @@
       "username": "vpnbook",
       "password": "huba7re"
     },
-     {
-      "name": "RESTON 🇺🇲",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us1.ovpn",
-      "username": "vpnbook",
-      "password": "huba7re"
-    },
     {
-      "name": "HILLSBORO 🇺🇲",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us2.ovpn",
-      "username": "vpnbook",
-      "password": "huba7re"
-    },
-    {
-      "name": "LONDON  🇬🇧",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/uk1.ovpn",
-      "username": "vpnbook",
-      "password": "huba7re"
-    },
-     {
-      "name": "LONDON  🇬🇧",
+      "name": "LONDON 🇬🇧",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/uk1.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
     },
     {
-      "name": "LONDON  🇬🇧",
+      "name": "LONDON 🇬🇧",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/uk2.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
     },
     {
-      "name": "ROUBAIX  🇫🇷",
+      "name": "ROUBAIX 🇫🇷",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr1.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
     },
     {
-      "name": "ROUBAIX  🇫🇷",
+      "name": "ROUBAIX 🇫🇷",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr2.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
     },
     {
-      "name": "ROUBAIX  🇫🇷",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr1.ovpn",
-      "username": "vpnbook",
-      "password": "huba7re"
-    },
-    {
-      "name": "ROUBAIX  🇫🇷",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr2.ovpn",
-      "username": "vpnbook",
-      "password": "huba7re"
-    },
-    {
-      "name": "LIMBURG  🇩🇪",
+      "name": "LIMBURG 🇩🇪",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de1.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
     },
     {
-      "name": "LIMBURG  🇩🇪",
+      "name": "LIMBURG 🇩🇪",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de2.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
     },
     {
-      "name": "WROCLAW  🇵🇱",
+      "name": "WROCLAW 🇵🇱",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/pl1.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
     },
     {
-      "name": "WROCLAW  🇵🇱",
+      "name": "WROCLAW 🇵🇱",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/pl2.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
     },
     {
-      "name": "WROCLAW  🇵🇱",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/pl1.ovpn",
-      "username": "vpnbook",
-      "password": "huba7re"
-    },
-    {
-      "name": "WROCLAW  🇵🇱",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/pl2.ovpn",
-      "username": "vpnbook",
-      "password": "huba7re"
-    },
-    {
-      "name": "BEAUHARNOIS 🇨🇦",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/ca1.ovpn",
-      "username": "vpnbook",
-      "password": "huba7re"
-    },
-    {
-      "name": "MONTREAL 🇨🇦",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/ca2.ovpn",
-      "username": "vpnbook",
-      "password": "huba7re"
-    }
-     {
       "name": "BEAUHARNOIS 🇨🇦",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/ca1.ovpn",
       "username": "vpnbook",
