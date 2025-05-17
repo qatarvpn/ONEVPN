@@ -1,7 +1,7 @@
 {
   "vpn_servers": [
     {
-      "name": "RESTON 🇺🇲",
+      "name": "RESTON 1 🇺🇲",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us1.ovpn",
       "username": "vpnbook",
       "password": "huba7re"
